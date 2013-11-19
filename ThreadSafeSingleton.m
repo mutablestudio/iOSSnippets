@@ -1,5 +1,5 @@
 /*
- *  Thread safe YO!  Singleton patter with thread safe dispatch.
+ *  Thread safe YO!  Singleton pattern with thread safe dispatch.
  *
  */
 
